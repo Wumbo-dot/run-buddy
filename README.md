@@ -14,3 +14,5 @@ https://wumbo-dot.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by JT Gutierrez
+
+### ©️2019 Run Buddy, Inc 
